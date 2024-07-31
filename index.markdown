@@ -9,7 +9,7 @@ footer: null
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/styles/mystyle.css"/>
+    <link rel="stylesheet" href="/assets/styles/mystyle.css"/>
   </head>
   <body>
     <div class="wrapper">
@@ -17,7 +17,7 @@ footer: null
     </div>
 
     <div class="wrapper">
-        <img src="images/ian_dardik_cmu.jpg" width="200" class="float-left"/>
+        <img src="assets/images/ian_dardik_cmu.jpg" width="200" class="float-left"/>
         <div class="side-panel">
             <p>
                 I am a Software Engineering Ph.D. student at Carnegie Mellon University.
@@ -62,42 +62,42 @@ footer: null
         <h2>Publications</h2>
         <ul>
             <li>
-                <a href="papers/recomp_fmcad24.pdf"><h3>Recomposition: A New Technique for Efficient Compositional Verification</h3></a>
+                <a href="assets/papers/recomp_fmcad24.pdf"><h3>Recomposition: A New Technique for Efficient Compositional Verification</h3></a>
                 <p>
                     <b>Ian Dardik</b>, April Porter, Eunsuk Kang <br/>
                     <i>To appear in FMCAD 2024</i>
                 </p>
             </li>
             <li>
-                <a href="papers/fortis_fmcad23.pdf"><h3>Fortis: A Tool for Analysis and Repair of Robust Software Systems</h3></a>
+                <a href="assets/papers/fortis_fmcad23.pdf"><h3>Fortis: A Tool for Analysis and Repair of Robust Software Systems</h3></a>
                 <p>
                     Changjian Zhang, <b>Ian Dardik</b>, Rômulo Meira-Góes, David Garlan, Eunsuk Kang. <br/>
                     <i>FMCAD 2023</i> (Tool paper)
                 </p>
             </li>
             <li>
-                <a href="papers/safe_env_cav23.pdf"><h3>Safe Environmental Envelopes of Discrete Systems</h3></a>
+                <a href="assets/papers/safe_env_cav23.pdf"><h3>Safe Environmental Envelopes of Discrete Systems</h3></a>
                 <p>
                     Rômulo Meira-Góes, <b>Ian Dardik</b>, Eunsuk Kang, Stéphane Lafortune, Stavros Tripakis. <br/>
                     <i>CAV 2023</i>
                 </p>
             </li>
             <li>
-                <a href="papers/ind_inf_fmcad22.pdf"><h3>Plain and Simple Inductive Invariant Inference for Distributed Protocols in TLA+</h3></a>
+                <a href="assets/papers/ind_inf_fmcad22.pdf"><h3>Plain and Simple Inductive Invariant Inference for Distributed Protocols in TLA+</h3></a>
                 <p>
                     William Schultz, <b>Ian Dardik</b>, Stavros Tripakis. <br/>
                     <i>FMCAD 2022</i>
                 </p>
             </li>
             <li>
-                <a href="papers/verif_cpp22.pdf"><h3>Formal Verification of a Distributed Dynamic Reconfiguration Protocol</h3></a>
+                <a href="assets/papers/verif_cpp22.pdf"><h3>Formal Verification of a Distributed Dynamic Reconfiguration Protocol</h3></a>
                 <p>
                     William Schultz, <b>Ian Dardik</b>, Stavros Tripakis. <br/>
                     <i>CPP 2022</i>
                 </p>
             </li>
             <li>
-                <a href="papers/design_opodis21.pdf"><h3>Design and Analysis of a Logless Dynamic Reconfiguration Protocol</h3></a>
+                <a href="assets/papers/design_opodis21.pdf"><h3>Design and Analysis of a Logless Dynamic Reconfiguration Protocol</h3></a>
                 William Schultz, Siyuan Zhou, <b>Ian Dardik</b>, Stavros Tripakis. <br/>
                 <i>OPODIS 2021</i>
             </li>
@@ -112,7 +112,7 @@ footer: null
                 <p>
                     <i>CAV 2023</i> (Paris, France)
                 </p>
-                <img src="images/talk_cav23.jpg" height="320px" />
+                <img src="assets/images/talk_cav23.jpg" height="320px" />
             </li>
         </ul>
     </div>
