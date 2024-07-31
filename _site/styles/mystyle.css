@@ -1,0 +1,38 @@
+.float-left {
+    float: left;
+    flex: 30%;
+    padding-right: 20px;
+}
+
+.side-panel {
+    padding-left: 20px;
+}
+
+.pub-list ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.pub-list a, h3 {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.pub-list p {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.ian {
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    padding-bottom: 30px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.sect {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
