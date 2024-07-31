@@ -29,6 +29,19 @@ footer: null
                     Email: idardik (at) andrew (dot) cmu (dot) edu
                 </li>
                 <li>
+                    <a href="https://scholar.google.com/citations?user=UOf7BfgAAAAJ&hl=en">Google Scholar</a>
+                </li>
+                <li>
+                    <a href="https://www.twitter.com/IanDardik">
+                        <span class="username">Twitter</span>
+                    </a>
+                    &#8226;
+                    <a href="https://github.com/iandardik">
+                        <span class="username">GitHub</span>
+                    </a>
+                </li>
+                <!--
+                <li>
                     <a href="https://github.com/iandardik">
                         <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg>
                         <span class="username">iandardik</span>
@@ -40,6 +53,7 @@ footer: null
                         <span class="username">IanDardik</span>
                     </a>
                 </li>
+                -->
             </ul>
         </div>
     </div>
