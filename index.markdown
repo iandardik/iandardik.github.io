@@ -104,6 +104,19 @@ footer: null
         </ul>
     </div>
 
+    <div class="wrapper pub-list sect">
+        <h2>Talks</h2>
+        <ul>
+            <li>
+                <a href="http://www.i-cav.org/2023/program/"><h3>Safe Environmental Envelopes of Discrete Systems</h3></a>
+                <p>
+                    <i>CAV 2023</i> (Paris, France)
+                </p>
+                <img src="images/talk_cav23.jpg" height="320px" />
+            </li>
+        </ul>
+    </div>
+
     <div class="wrapper sect">
         <h2>Bio</h2>
         <p>At Carnegie Mellon, I am advised by Professor <a href="https://eskang.github.io/">Eunsuk Kang</a> and a member of <a href="https://cmu-soda.github.io/">SoDA Lab</a>.</p>
