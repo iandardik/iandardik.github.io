@@ -65,7 +65,7 @@ footer: null
                 <a href="assets/papers/recomp_fmcad24.pdf"><h4>Recomposition: A New Technique for Efficient Compositional Verification</h4></a>
                 <p>
                     <b>Ian Dardik</b>, April Porter, Eunsuk Kang <br/>
-                    <i>To appear in FMCAD 2024</i>
+                    <i>FMCAD 2024</i>
                 </p>
             </li>
             <li>
@@ -110,6 +110,14 @@ footer: null
         <h2>Talks</h2>
         <ul>
             <li>
+                <a href="https://fmcad.org/FMCAD24/program/"><h4>Recomposition: A New Technique for Efficient Compositional Verification</h4></a>
+                <p>
+                    <i>FMCAD 2024</i> (Prague, Czech Republic)
+                </p>
+                <img src="assets/images/talk_fmcad24.jpg" height="320px" />
+            </li>
+            <li>
+                <br />
                 <a href="http://www.i-cav.org/2023/program/"><h4>Safe Environmental Envelopes of Discrete Systems</h4></a>
                 <p>
                     <i>CAV 2023</i> (Paris, France)
