@@ -62,6 +62,13 @@ footer: null
         <h2>Publications</h2>
         <ul>
             <li>
+                <a href="https://arxiv.org/abs/2412.02905"><h4>Constrained LTL Specification Learning from Examples</h4></a>
+                <p>
+                    Changjian Zhang, Parv Kapoor, <b>Ian Dardik</b>, Leyi Cui, Romulo Meira-Goes, David Garlan, Eunsuk Kang <br/>
+                    <i>ICSE 2025 (to appear)</i>
+                </p>
+            </li>
+            <li>
                 <a href="assets/papers/recomp_fmcad24.pdf"><h4>Recomposition: A New Technique for Efficient Compositional Verification</h4></a>
                 <p>
                     <b>Ian Dardik</b>, April Porter, Eunsuk Kang <br/>
