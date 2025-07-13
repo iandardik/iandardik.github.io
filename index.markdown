@@ -62,10 +62,17 @@ footer: null
         <h2>Publications</h2>
         <ul>
             <li>
-                <a href="https://arxiv.org/abs/2412.02905"><h4>Constrained LTL Specification Learning from Examples</h4></a>
+                <a href="assets/papers/Compositional_Inductive_Invariants_preprint.pdf"><h4>Compositional Inductive Invariant Inference via Assume-Guarantee Reasoning</h4></a>
+                <p>
+                    <b>Ian Dardik</b> and Eunsuk Kang <br/>
+                    <i>Under submission</i>
+                </p>
+            </li>
+            <li>
+                <a href="assets/papers/constrained_ltl_icse25.pdf"><h4>Constrained LTL Specification Learning from Examples</h4></a>
                 <p>
                     Changjian Zhang, Parv Kapoor, <b>Ian Dardik</b>, Leyi Cui, Romulo Meira-Goes, David Garlan, Eunsuk Kang <br/>
-                    <i>ICSE 2025 (to appear)</i>
+                    <i>ICSE 2025</i>
                 </p>
             </li>
             <li>
@@ -132,6 +139,29 @@ footer: null
                 <img src="assets/images/talk_cav23.jpg" height="320px" />
             </li>
         </ul>
+    </div>
+
+    <div class="wrapper pub-list sect">
+        <h2>Awards and Media</h2>
+        <ul>
+            <li>
+                Highlight in the <a href="https://foundation.tlapl.us/blog/2025-06-dev-update/index.html">TLA+ Blog</a> for our research funded by a TLA+ Foundation grant.
+            </li>
+            <li>
+                Mention in the <a href="https://international.tau.ac.il/cmu-tau-joint-school">news article</a> for the 2023 <a href="https://cmu-tau-specs.github.io/">SPECS Summer School</a>.
+            </li>
+            <li>
+                Participated in the <a href="https://fm.csl.sri.com/SSFT22/">SRI International 2022 Summer School</a>.
+            </li>
+            <li>
+                Recipient of Northeastern's 2022 Khoury College Graudate Research Award (<a href="https://www.khoury.northeastern.edu/meet-the-2022-khoury-college-award-winners/#ian">News Article</a>).
+            </li>
+        </ul>
+    </div>
+
+    <div class="wrapper sect">
+        <h2>Service</h2>
+        <p>PC: <a href="https://iccps.acm.org/2025/wip-abstracts/index.html">ICCPS'25 Posters and Demos</a></p>
     </div>
 
     <div class="wrapper sect">
